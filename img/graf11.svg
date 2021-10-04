@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 480 425" style="enable-background:new 0 0 480 425;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.5;}
+	.st1{fill:#383838;}
+	.st2{font-family:'Arial-BoldMT';}
+	.st3{font-size:14px;}
+	.st4{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
+	.st6{fill:#231F20;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{fill:#77787B;}
+	.st9{enable-background:new    ;}
+	.st10{font-family:'ArialHebrew-Light';}
+</style>
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="time-hkg.png"  transform="matrix(0.5 0 0 0.5 0 -26)">
+</image>
+<g class="st0">
+	<text transform="matrix(1 0 0 1 132.2747 36.781)" class="st1 st2 st3"></text>
+</g>
+<path class="st4" d="M270,250.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C272.5,251.7,271.4,250.6,270,250.6"/>
+<g>
+	<g>
+		<g>
+			<path class="st5" d="M204.4,267.2c-2.3-12.6-14.2-21.1-26.9-19.1"/>
+			<g>
+				<polygon points="206,265.1 205.6,264.9 204.3,267 202.3,265.6 202,266 204.5,267.7 				"/>
+			</g>
+		</g>
+	</g>
+	<path class="st4" d="M227.9,106.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S229.3,106.5,227.9,106.5"/>
+	<path class="st4" d="M418.4,150c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S419.8,150,418.4,150"/>
+	<path class="st4" d="M98.7,348.1c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S100.1,348.1,98.7,348.1"/>
+	<path class="st4" d="M314.2,131c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S315.6,131,314.2,131"/>
+	<text transform="matrix(1 0 0 1 235.3085 113.823)" class="st6 st7 st3">Beijing</text>
+	<text transform="matrix(1 0 0 1 38.4949 354.7959)" class="st8 st7 st3">Bangkok</text>
+	<g>
+		<text transform="matrix(1 0 0 1 423.3054 157.0259)" class="st8 st7 st3">Tokio</text>
+	</g>
+	<text transform="matrix(1 0 0 1 100.6277 249.9622)" class="st9"><tspan x="0" y="0" class="st6 st7 st3">Hong</tspan><tspan x="32.4" y="0" class="st6 st10 st3"> </tspan><tspan x="36.3" y="0" class="st6 st7 st3">Kong</tspan></text>
+</g>
+</svg>

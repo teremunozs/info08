@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 484 425" style="enable-background:new 0 0 484 425;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#383838;}
+	.st1{font-family:'Arial-BoldMT';}
+	.st2{font-size:14px;}
+	.st3{opacity:0.5;}
+	.st4{fill:#231F20;stroke:#231F20;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-miterlimit:1;}
+	.st6{fill:#231F20;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{fill:#77787B;}
+	.st9{enable-background:new    ;}
+	.st10{font-family:'ArialHebrew-Light';}
+</style>
+<image style="overflow:visible;enable-background:new    ;" width="1920" height="926" xlink:href="time-hkg.png"  transform="matrix(0.5 0 0 0.5 -476 -26)">
+</image>
+<g>
+	<g>
+		<text transform="matrix(1 0 0 1 175.4058 36.781)" class="st0 st1 st2"></text>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st5" d="M208.7,268.9c-1.2-6-7-10.1-13.1-9.1"/>
+			<g>
+				<polygon points="210.3,266.8 209.8,266.5 208.6,268.7 206.6,267.4 206.3,267.8 208.8,269.4 				"/>
+			</g>
+		</g>
+	</g>
+	<path class="st4" d="M230.4,104.5c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S231.7,104.5,230.4,104.5"/>
+	<path class="st4" d="M272.5,248.6c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5C275,249.7,273.9,248.6,272.5,248.6"/>
+	<path class="st4" d="M101.2,346.1c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S102.5,346.1,101.2,346.1"/>
+	<path class="st4" d="M316.7,129c-1.4,0-2.5,1.1-2.5,2.5s1.1,2.5,2.5,2.5s2.5-1.1,2.5-2.5S318.1,129,316.7,129"/>
+	<text transform="matrix(1 0 0 1 235.7814 111.823)" class="st6 st7 st2">Beijing</text>
+	<g>
+		<text transform="matrix(1 0 0 1 426.7782 155.0259)" class="st8 st7 st2">Tokio</text>
+	</g>
+	<text transform="matrix(1 0 0 1 276.3242 135.2849)" class="st8 st7 st2">Seoul</text>
+	<text transform="matrix(1 0 0 1 40.9677 352.7959)" class="st8 st7 st2">Bangkok</text>
+	<text transform="matrix(1 0 0 1 122.9548 262.6707)" class="st9"><tspan x="0" y="0" class="st6 st7 st2">Hong</tspan><tspan x="32.4" y="0" class="st6 st10 st2"> </tspan><tspan x="36.3" y="0" class="st6 st7 st2">Kong</tspan></text>
+</g>
+</svg>
